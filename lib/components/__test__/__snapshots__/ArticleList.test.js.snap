@@ -19,7 +19,9 @@ exports[`ArticleList renders correctly 1`] = `
           "fontWeight": "bold",
         }
       }
-    />
+    >
+      a
+    </div>
     <div
       style={
         Object {
@@ -50,7 +52,9 @@ exports[`ArticleList renders correctly 1`] = `
           "paddingLeft": 20,
         }
       }
-    />
+    >
+      a
+    </div>
   </div>
   <div
     style={
@@ -69,7 +73,9 @@ exports[`ArticleList renders correctly 1`] = `
           "fontWeight": "bold",
         }
       }
-    />
+    >
+      b
+    </div>
     <div
       style={
         Object {
@@ -100,7 +106,9 @@ exports[`ArticleList renders correctly 1`] = `
           "paddingLeft": 20,
         }
       }
-    />
+    >
+      b
+    </div>
   </div>
   <div
     style={
@@ -119,7 +127,9 @@ exports[`ArticleList renders correctly 1`] = `
           "fontWeight": "bold",
         }
       }
-    />
+    >
+      c
+    </div>
     <div
       style={
         Object {
@@ -150,7 +160,9 @@ exports[`ArticleList renders correctly 1`] = `
           "paddingLeft": 20,
         }
       }
-    />
+    >
+      c
+    </div>
   </div>
 </div>
 `;
